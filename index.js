@@ -58,7 +58,7 @@ app.get('/extra/up', (req, res) => {
 });
 
 app.get('/silly/billy', (req, res) => {
-  res.send('🐌🐌🐌🐌🐌🐌🐌🐌🐌🐌');
+  res.send('🐈🐈🐈🐈🐈🐈😺😺🐈');
 });
 
 
@@ -88,7 +88,7 @@ app.post('/api/upload', upload.single('extension'), (req, res) => {
   };
 
   // Return the URL to the uploaded extension
-  const extensionURL = `https://opensnail.snail-ide.com/api/download/${fileName}`;
+  const extensionURL = `https://gaiawindwave90.github.io/OpenGaia/api/download/${fileName}`;
   res.send(extensionURL);
 });
 
