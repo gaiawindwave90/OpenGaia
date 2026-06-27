@@ -1,7 +1,7 @@
-# OpenSnail
+# OpenGaia
 [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/10x1r.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
   
 A public API used for extensions, and extension development.
 
 Our public API URL is:
-https://opensnail.snail-ide.com/
+gaiawindwave90.github.io/OpenGaia
